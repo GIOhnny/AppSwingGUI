@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppSwingGUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/AppSwingGUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
